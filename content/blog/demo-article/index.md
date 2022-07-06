@@ -1,6 +1,6 @@
 ---
-title: "Demo Article"
-date: "2021-10-15T19:00:00.169Z"
+title: Demo Article
+date: 2021-10-15 19:00:00.169000000 Z
 ---
 
 ![Roast Dinner](./illustration.png)
