@@ -3,7 +3,7 @@ title: Demo Article
 date: 2021-10-15 19:00:00 Z
 ---
 
-![IMG_3872.jpg](/uploads/IMG_3872.jpg)
+![Picture](./illustration.png)
 
 I don’t know about you, but when I sit down at the end of a long week, a hall roast dinner more suited to a hospital tray isn’t really what I’m after. A guaranteed, congealed vat of ‘gravy’, rock-hard potatoes, and school-dinner style meat and two veg just doesn’t cut the mustard. Forget the impending essay crises, JCR meetings and circuit laundry battles ; the real reason I used to dread a Sunday at this university was on account of the roast dinner.
 
