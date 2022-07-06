@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Millie Drew Food`,
+    title: `Fred Lynam`,
   },
   plugins: [
     {

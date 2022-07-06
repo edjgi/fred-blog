@@ -23,19 +23,18 @@ const Bio = () => {
       />
       <p>
         <b>
-          Millie{" "}
+          Fred{" "}
           <a
-            href="https://www.instagram.com/milliedrewfood/"
+            href="https://www.instagram.com/fredlynam/"
             rel="noreferrer"
             target="_blank"
           >
-            @milliedrewfood
+            @fredlynam
           </a>
         </b>
         <br />
-        Grace Dent I’m coming for your job. I’m NOT a chef, but I think my binge
-        watching of Kitchen Nightmares should be considered professional in its
-        own right.
+        Pathfinder travels around the United States of America. Loves David
+        Sedaris, General Charles Gordon, Antony Trollope and Ed.
       </p>
     </div>
   )
