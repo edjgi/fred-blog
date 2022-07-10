@@ -34,7 +34,7 @@ const Bio = () => {
         </b>
         <br />
         Pathfinder travels around the United States of America. Loves David
-        Sedaris, General Charles Gordon, Antony Trollope and Ed.
+        Sedaris, General Gordon, Anthony Trollope and Ed.
       </p>
     </div>
   )
