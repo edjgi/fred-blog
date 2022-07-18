@@ -1,8 +1,9 @@
 ---
-layout: blog
 title: Read it and weep
-date: 2022-07-18T20:00:00.000Z
+date: 2022-07-18 20:00:00 Z
+layout: blog
 ---
+
 I hate blogs. I especially hate reading other people's blogs, which more often than not are poorly written and uninteresting. Travel blogs, I suspect, are the worst - the written equivalent of a photo of a plane wing. Bloggers believe themselves to be above the cess-pit of social media, but it's all the same. Instead of scrolling through photos on Instagram of people having a better time than you, simply read about how they found a charming little restaurant tucked away behind the piazza where they sampled the most authentic cannoli in all of bella Italia.﻿ Besides, it's a terribly ugly word. Ugly blogs and uglier bloggers. 
 
 Welcome to my blog. I'll make some assurances from the start. The entries will be short. They will include pictures. I will never earnestly claim to have had the best pizza, coffee, caesar salad etc. in my life. Primarily this will be for my benefit, more so than yours. My greatest regret from my last few years at university was that I failed to keep a diary, and have since forgotten all of the hilarious and witty things I did and said. Why a blog and not a diary then? Narcissism. I figure that if I know that I will be receiving a modicum of attention from keeping track of my activities, I will be much more dutiful in doing so.
